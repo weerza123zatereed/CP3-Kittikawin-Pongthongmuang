@@ -1,0 +1,10 @@
+x=float(input("x : "))
+y=float(input("y : "))
+Add=x+y
+Subt=x-y
+Multi=x*y
+Divi=x/y
+print(x,"+",y,"=",Add)
+print(x,"-",y,"=",Subt)
+print(x,"*",y,"=",Multi)
+print(x,"/",y,"=",Divi)
